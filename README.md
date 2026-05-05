@@ -28,10 +28,11 @@ Currently building projects around real-world business questions such as pricing
   → Analysing how discounts impact revenue and product performance
 
 * 📦 **Eniac Partnership Analysis**
+  → Evaluate whether to proceed with a partnership with Magist using data analysis and market research on the Brazilian e-commerce landscape
 
 ---
 
-## 🎓 Background:
+## 💼 Background:
 
 ESG Analysis
 Business Sustainability
