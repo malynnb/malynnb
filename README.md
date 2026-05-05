@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-**Malynnb/Malynnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I'm Malynn
 
 💡 Aspiring Data Analyst with a focus on turning messy data into clear, actionable insights
@@ -36,14 +34,16 @@ Currently building projects around real-world business questions such as pricing
 
 ---
 
-## 📈 Currently Learning
+## 🎓 Background:
 
-* Advanced data visualisation
-* Improving storytelling with data
+ESG Analysis
+Business Sustainability
+Data Analysis & Research
 
 ---
 
 ## 📫 Connect
 
-* LinkedIn: 
+* LinkedIn: linkedin.com/in/malynn-b-80a235185
+* Email: malynnb.work@gmail.com
 
