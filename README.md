@@ -32,7 +32,7 @@ Currently building projects around real-world business questions such as pricing
 * 📦 **Discount Strategy Analysis**
   → Analysing how discounts impact revenue and product performance
 
-* 📦 **Partnership Analysis**
+* 📦 **Eniac Partnership Analysis**
 
 ---
 
