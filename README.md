@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # 👋 Hi, I'm Malynn
 
 💡 Aspiring Data Analyst with a focus on turning messy data into clear, actionable insights
