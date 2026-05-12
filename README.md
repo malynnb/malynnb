@@ -23,14 +23,17 @@ Currently building projects around real-world business questions such as pricing
 
 ## 📁 Projects  
 
+
+ **Eniac Partnership Analysis**  
+→ Evaluating a business partnership using data analysis and market research  
+
  **Discount Strategy Analysis**  
 → Analysing how discounts impact revenue and product performance  
 
  **Eniac A/B Test Analysis**  
 → Identifying the best-performing website button using statistical testing  
 
- **Eniac Partnership Analysis**  
-→ Evaluating a business partnership using data analysis and market research  
+
 
 ---
 
