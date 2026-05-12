@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 About Me  
-I enjoy working with data—from cleaning and structuring it to uncovering patterns and communicating results through visualisation.  
+I enjoy working with data, from cleaning and structuring it to uncovering patterns and communicating results through visualisation.  
 Currently building projects around real-world business questions such as pricing, user behavior, and experimentation.
 
 ---
