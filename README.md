@@ -45,6 +45,3 @@ ESG Analysis • Business Sustainability • Data Analysis & Research
 📧 malynnb.work@gmail.com
 
 
-
-* Email: malynnb.work@gmail.com
-
