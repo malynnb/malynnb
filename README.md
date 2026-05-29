@@ -20,7 +20,8 @@ I enjoy working with data from collection and cleaning through to analysis and v
 
 ## Core Skills
 
-`ETL Pipelines` • `API Integration` • `Web Scraping` • `Database Design` • `Data Cleaning` • `Exploratory Data Analysis` • `A/B Testing`
+`ETL Pipelines` • `API Integration` • `Web Scraping` • `Database Design` • `Data Cleaning` • `Exploratory Data Analysis` 
+• `A/B Testing`
 
 ---
 
