@@ -1,50 +1,80 @@
-# 👋 Hi, I'm Malynn  
+# Hi, I'm Malynn 👋
 
-💡 Aspiring Data Analyst focused on turning messy data into clear, actionable insights  
+Aspiring Data Analyst with a background in ESG research and business analysis.
 
----
-
-## 🧠 About Me  
-I enjoy working with data, from cleaning and structuring it to uncovering patterns and communicating results through visualisation.  
-Currently building projects around real-world business questions such as pricing, user behavior, and experimentation.
+I enjoy working with data from collection and cleaning through to analysis and visualisation, using SQL and Python to solve business problems and support data-driven decision making.
 
 ---
 
-## 🛠️ Tools & Skills  
+## ⚡ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-lightgrey)
-![SQL](https://img.shields.io/badge/SQL-Database-blue)
-![Excel](https://img.shields.io/badge/Excel-Analysis-green)
-![EDA](https://img.shields.io/badge/EDA-Exploratory%20Analysis-orange)
-![Visualization](https://img.shields.io/badge/Data%20Viz-Matplotlib%20%7C%20Seaborn-purple)
-
----
-
-## 📁 Projects  
-
-
- **Eniac Partnership Analysis**  
-→ Evaluating a business partnership using data analysis and market research  
-
- **Discount Strategy Analysis**  
-→ Analysing how discounts impact revenue and product performance  
-
- **Eniac A/B Test Analysis**  
-→ Identifying the best-performing website button using statistical testing  
-
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 💼 Background  
-ESG Analysis • Business Sustainability • Data Analysis & Research  
+## Core Skills
+
+`ETL Pipelines` • `API Integration` • `Web Scraping` • `Database Design` • `Data Cleaning` • `Exploratory Data Analysis` • `A/B Testing`
 
 ---
 
-## 📫 Connect  
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malynn-blue?logo=linkedin)](https://linkedin.com/in/malynn-b-80a235185)  
-📧 malynnb.work@gmail.com
+### 🛴 E-Scooter Demand Intelligence Pipeline
 
+Built an end-to-end data pipeline using Python, APIs, Web Scraping, SQLAlchemy, and MySQL to collect and store external demand indicators including city demographics, weather forecasts, and airport arrivals.
 
+**Highlights**
+
+* Scraped city information from Wikipedia using BeautifulSoup
+* Retrieved weather forecasts through the OpenWeather API
+* Collected airport arrival data using AeroDataBox
+* Designed a relational MySQL database
+* Loaded data into SQL tables using SQLAlchemy
+
+---
+
+### 📦 Eniac Partnership Analysis
+
+Evaluated whether Magist would be a suitable business partner for Eniac through analysis of marketplace performance, delivery reliability, and seller behaviour.
+
+**Tech:** SQL • Data Analysis • Business Analytics
+
+---
+
+### 💰 Discount Strategy Analysis
+
+Investigated how discount strategies affected revenue and product performance.
+
+**Tech:** SQL • EDA • Business Analytics
+
+---
+
+### 🧪 Eniac A/B Test Analysis
+
+Applied hypothesis testing to determine whether a new website button improved conversion performance.
+
+**Tech:** Python • Statistics • A/B Testing
+
+---
+
+## Currently Exploring
+
+* Advanced SQL
+* ETL Pipeline Development
+* Data Engineering Fundamentals
+* Cloud Data Workflows
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malynn_Buranawichian-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/malynn-bu/)
+
+📧 **[malynnb.work@gmail.com](mailto:malynnb.work@gmail.com)**
