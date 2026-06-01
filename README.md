@@ -45,7 +45,6 @@ Built an end-to-end data pipeline using Python, APIs, Web Scraping, SQLAlchemy, 
 
 Evaluated whether Magist would be a suitable business partner for Eniac through analysis of marketplace performance, delivery reliability, and seller behaviour.
 
-**Tech:** SQL • Data Analysis • Business Analytics
 
 ---
 
@@ -53,7 +52,6 @@ Evaluated whether Magist would be a suitable business partner for Eniac through 
 
 Investigated how discount strategies affected revenue and product performance.
 
-**Tech:** SQL • EDA • Business Analytics
 
 ---
 
@@ -61,7 +59,6 @@ Investigated how discount strategies affected revenue and product performance.
 
 Applied hypothesis testing to determine whether a new website button improved conversion performance.
 
-**Tech:** Python • Statistics • A/B Testing
 
 ---
 
