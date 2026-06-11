@@ -1,8 +1,9 @@
 # Hi, I'm Malynn 👋
 
-Aspiring Data Analyst with a background in ESG research and business analysis.
+Aspiring Data Analyst with experience in SQL, Python, Business Intelligence, and data visualization. I enjoy transforming raw data into actionable insights through analytics, dashboard development, and stakeholder-focused reporting.
 
-I enjoy working with data from collection and cleaning through to analysis and visualisation, using SQL and Python to solve business problems and support data-driven decision making.
+Recently, I have worked with BigQuery, Google Sheets, and Looker Studio to build end-to-end analytics solutions that support data-driven decision making.
+
 
 ---
 
