@@ -15,17 +15,43 @@ I enjoy working with data from collection and cleaning through to analysis and v
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-5F6368?style=for-the-badge)
+
 
 ---
 
 ## Core Skills
 
-•`ETL Pipelines` • `API Integration` • `Web Scraping` • `Database Design` • `Data Cleaning` • `Exploratory Data Analysis`  
-• `A/B Testing`
+• SQL • BigQuery • Business Intelligence
+• Dashboard Development • Data Visualization
+• Data Modeling • KPI Development
+• Google Sheets • Exploratory Data Analysis
+• ETL Pipelines • API Integration
+• Web Scraping • Database Design
+• A/B Testing
 
 ---
 
 ## Featured Projects
+
+
+## Featured Projects
+
+### 🌍 GoOutside Market Performance Dashboard
+
+Developed an end-to-end Business Intelligence solution for a multi-market retail company using BigQuery, SQL, Google Sheets, and Looker Studio.
+
+**Highlights**
+
+* Built a business reporting view by joining sales, retailer, product, and order method datasets in BigQuery
+* Created KPI calculations and analytical queries to support executive reporting
+* Performed pivot table analysis and KPI validation in Google Sheets
+* Designed an interactive Looker Studio dashboard for market, retailer, and product performance analysis
+* Delivered stakeholder-focused insights to support data-driven decision making
+
+---
 
 ### 🛴 E-Scooter Demand Intelligence Pipeline
 
@@ -45,6 +71,11 @@ Built an end-to-end data pipeline using Python, APIs, Web Scraping, SQLAlchemy, 
 
 Evaluated whether Magist would be a suitable business partner for Eniac through analysis of marketplace performance, delivery reliability, and seller behaviour.
 
+**Highlights**
+
+* Analyzed marketplace performance and seller activity
+* Evaluated delivery reliability and operational efficiency
+* Presented business recommendations supported by data analysis
 
 ---
 
@@ -52,12 +83,24 @@ Evaluated whether Magist would be a suitable business partner for Eniac through 
 
 Investigated how discount strategies affected revenue and product performance.
 
+**Highlights**
+
+* Analyzed the relationship between discounts and sales performance
+* Identified trends impacting revenue generation
+* Presented findings to support pricing strategy decisions
 
 ---
 
 ### 🧪 Eniac A/B Test Analysis
 
 Applied hypothesis testing to determine whether a new website button improved conversion performance.
+
+**Highlights**
+
+* Conducted statistical hypothesis testing
+* Evaluated conversion rate performance
+* Communicated results and business implications
+
 
 
 ---
@@ -68,7 +111,9 @@ Applied hypothesis testing to determine whether a new website button improved co
 * ETL Pipeline Development
 * Data Engineering Fundamentals
 * Cloud Data Workflows
-
+* Business Intelligence & Dashboard Design
+* Data Modeling
+  
 ---
 
 ## Connect
