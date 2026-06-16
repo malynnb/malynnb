@@ -37,9 +37,6 @@ Recently, I have worked with BigQuery, Google Sheets, and Looker Studio to build
 
 ## Featured Projects
 
-
-## Featured Projects
-
 ### 🌍 GoOutside Market Performance Dashboard
 
 Developed an end-to-end Business Intelligence solution for a multi-market retail company using BigQuery, SQL, Google Sheets, and Looker Studio.
