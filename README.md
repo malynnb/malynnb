@@ -3,6 +3,7 @@
 Aspiring Data Analyst with experience in SQL, Python, Business Intelligence, and end-to-end analytics projects. I enjoy transforming raw data into actionable insights through data preparation, exploratory analysis, dashboard development, and stakeholder-focused reporting.
 
 Recently, I have worked with BigQuery, APIs, Google Sheets, and Looker Studio to build data pipelines, interactive dashboards, and analytics solutions that support data-driven decision making.
+
 ---
 
 ## Tech Stack
@@ -16,8 +17,13 @@ Recently, I have worked with BigQuery, APIs, Google Sheets, and Looker Studio to
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-5F6368?style=for-the-badge)
-
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![Yahoo Finance API](https://img.shields.io/badge/Yahoo_Finance_API-6001D2?style=for-the-badge)
+![REST API](https://img.shields.io/badge/API_Integration-005571?style=for-the-badge)
 
 ---
 
