@@ -1,10 +1,8 @@
 # Hi, I'm Malynn 👋
 
-Aspiring Data Analyst with experience in SQL, Python, Business Intelligence, and data visualization. I enjoy transforming raw data into actionable insights through analytics, dashboard development, and stakeholder-focused reporting.
+Aspiring Data Analyst with experience in SQL, Python, Business Intelligence, and end-to-end analytics projects. I enjoy transforming raw data into actionable insights through data preparation, exploratory analysis, dashboard development, and stakeholder-focused reporting.
 
-Recently, I have worked with BigQuery, Google Sheets, and Looker Studio to build end-to-end analytics solutions that support data-driven decision making.
-
-
+Recently, I have worked with BigQuery, APIs, Google Sheets, and Looker Studio to build data pipelines, interactive dashboards, and analytics solutions that support data-driven decision making.
 ---
 
 ## Tech Stack
@@ -25,13 +23,15 @@ Recently, I have worked with BigQuery, Google Sheets, and Looker Studio to build
 
 ## Core Skills
 
-• SQL • BigQuery • Business Intelligence
+• SQL • Python & Pandas • BigQuery • Business Intelligence
 • Dashboard Development • Data Visualization
-• Data Modeling • KPI Development
+• Data Modeling • KPI Development & Business Reporting
 • Google Sheets • Exploratory Data Analysis
 • ETL Pipelines • API Integration
-• Web Scraping • Database Design
-• A/B Testing
+• Database Design • A/B Testing • Statistical Analysis & Hypothesis Testing
+• Web Scraping & Data Collection
+
+
 
 ---
 
@@ -103,14 +103,29 @@ Applied hypothesis testing to determine whether a new website button improved co
 
 ---
 
-## Currently Exploring
+## Currently Exploring & Developing 
 
-* Advanced SQL
+* Advanced SQL & Query Optimization
 * ETL Pipeline Development
 * Data Engineering Fundamentals
 * Cloud Data Workflows
 * Business Intelligence & Dashboard Design
 * Data Modeling
+* Data Warehousing Concepts
+
+🌱 ESG & Market Performance Intelligence Dashboard
+
+Built an end-to-end analytics solution exploring the relationship between ESG performance and stock market returns across 388 industrial companies.
+
+Highlights
+
+Performed data cleaning, transformation, and exploratory analysis using Python and Pandas
+Integrated Yahoo Finance API to enrich company-level financial data
+Developed an interactive 3-page Looker Studio dashboard
+Analyzed ESG performance across industries and subindustries
+Built company-level drill-down functionality with ESG rankings and market metrics
+Delivered insights on ESG distribution, stock returns, and industry performance
+  
   
 ---
 
