@@ -19,7 +19,7 @@ Recently, I have worked with BigQuery, APIs, Google Sheets, and Looker Studio to
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-5F6368?style=for-the-badge)
+![Data Studio](https://img.shields.io/badge/Data_Studio-5F6368?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 ![Yahoo Finance API](https://img.shields.io/badge/Yahoo_Finance_API-6001D2?style=for-the-badge)
