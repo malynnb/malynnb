@@ -29,13 +29,10 @@ Recently, I have worked with BigQuery, APIs, Google Sheets, and Looker Studio to
 
 ## Core Skills
 
-• SQL • Python & Pandas • BigQuery • Business Intelligence
-• Dashboard Development • Data Visualization
-• Data Modeling • KPI Development & Business Reporting
-• Google Sheets • Exploratory Data Analysis
-• ETL Pipelines • API Integration
-• Database Design • A/B Testing • Statistical Analysis & Hypothesis Testing
-• Web Scraping & Data Collection
+• Data Analysis & Exploratory Data Analysis (EDA) • Business Intelligence & Dashboard Development
+• Data Visualization & Data Storytelling • SQL Querying & Data Extraction • ETL Pipelines & Data Preparation
+• API Integration & Data Enrichment • Data Modeling & Database Design • KPI Development & Business Reporting
+• Statistical Analysis & Hypothesis Testing • A/B Testing • Web Scraping & Data Collection • Stakeholder-Focused Analytics
 
 
 
