@@ -1,8 +1,9 @@
 # Hi, I'm Malynn 👋
 
-Aspiring Data Analyst with experience in SQL, Python, Business Intelligence, and end-to-end analytics projects. I enjoy transforming raw data into actionable insights through data preparation, exploratory analysis, dashboard development, and stakeholder-focused reporting.
+Aspiring Data Analyst with hands-on experience in SQL, Python, Business Intelligence, and end-to-end analytics projects. I enjoy transforming raw data into actionable business insights through data preparation, exploratory analysis, dashboard development, and stakeholder-focused reporting.
 
-Recently, I have worked with BigQuery, APIs, Google Sheets, and Looker Studio to build data pipelines, interactive dashboards, and analytics solutions that support data-driven decision making.
+My portfolio showcases projects across business intelligence, ESG analytics, financial analysis, ETL pipelines, API integrations, and data visualization using modern analytics tools.
+
 
 ---
 
@@ -39,6 +40,21 @@ Recently, I have worked with BigQuery, APIs, Google Sheets, and Looker Studio to
 ---
 
 ## Featured Projects
+
+
+### 🌱 ESG & Financial Performance Analysis
+
+Developed an end-to-end data analytics solution to investigate the relationship between ESG performance and stock market outcomes across industrial companies using Python, SQL, and Looker Studio.
+
+**Highlights**
+
+* Collected, cleaned, transformed, and integrated ESG and financial datasets from multiple sources using Python and SQL
+* Performed exploratory data analysis and correlation analysis to examine relationships between ESG scores, market capitalization, and 52-week stock returns
+* Categorized companies into Low, Medium, and High ESG groups using Python to compare financial performance across ESG levels
+* Designed an interactive 3-page Looker Studio dashboard to visualize ESG distribution, stock performance, and company-level insights
+* Delivered business-focused insights showing that ESG scores alone were not a strong predictor of short-term stock performance
+
+---
 
 ### 🌍 GoOutside Market Performance Dashboard
 
@@ -108,27 +124,25 @@ Applied hypothesis testing to determine whether a new website button improved co
 
 ## Currently Exploring & Developing 
 
-* Advanced SQL & Query Optimization
-* ETL Pipeline Development
-* Data Engineering Fundamentals
-* Cloud Data Workflows
-* Business Intelligence & Dashboard Design
-* Data Modeling
-* Data Warehousing Concepts
+- Advanced SQL & Query Optimization
+- Data Engineering Fundamentals
+- Cloud Data Workflows
+- Machine Learning for Data Analytics
+- Time Series Analysis
+- Building the next end-to-end analytics project using a real-world business dataset
 
-🌱 ESG & Market Performance Intelligence Dashboard
 
-Built an end-to-end analytics solution exploring the relationship between ESG performance and stock market returns across 388 industrial companies.
+---
 
-Highlights
+## 🎯 Currently Seeking
 
-Performed data cleaning, transformation, and exploratory analysis using Python and Pandas
-Integrated Yahoo Finance API to enrich company-level financial data
-Developed an interactive 3-page Looker Studio dashboard
-Analyzed ESG performance across industries and subindustries
-Built company-level drill-down functionality with ESG rankings and market metrics
-Delivered insights on ESG distribution, stock returns, and industry performance
-  
+- Data Analyst
+- Business Intelligence Analyst
+- ESG Analyst
+- Junior Analytics Engineer
+
+📍 Berlin, Germany
+
   
 ---
 
@@ -137,3 +151,5 @@ Delivered insights on ESG distribution, stock returns, and industry performance
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Malynn_Buranawichian-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/malynn-bu/)
 
 📧 **[malynnb.work@gmail.com](mailto:malynnb.work@gmail.com)**
+
+![Profile Views](https://komarev.com/ghpvc/?username=malynnb&color=blue&style=flat-square)
