@@ -40,7 +40,7 @@ My portfolio showcases projects across business intelligence, ESG analytics, fin
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🌱 [ESG & Stock Market Performance Analysis](https://github.com/Malynnb/esg-stock-market-performance-analysis)
 
