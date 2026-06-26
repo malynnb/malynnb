@@ -25,7 +25,6 @@ My portfolio showcases projects across business intelligence, ESG analytics, fin
 ![Data Studio](https://img.shields.io/badge/Data_Studio-5F6368?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-![Yahoo Finance API](https://img.shields.io/badge/Yahoo_Finance_API-6001D2?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/API_Integration-005571?style=for-the-badge)
 
 ---
