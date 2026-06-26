@@ -117,7 +117,7 @@ Developed an automated data pipeline that collects external demand indicators fo
 ![Profile Views](https://komarev.com/ghpvc/?username=malynnb&color=blue&style=flat-square)
 
 
-## 📊 GitHub Stats
+## 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Malynnb&theme=transparent&hide_border=true" />
