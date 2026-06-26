@@ -1,6 +1,8 @@
 # Hi, I'm Malynn 👋
 
-Aspiring Data Analyst with hands-on experience in SQL, Python, Business Intelligence, and end-to-end analytics projects. I enjoy transforming raw data into actionable business insights through data preparation, exploratory analysis, dashboard development, and stakeholder-focused reporting.
+
+Data Analyst with hands-on experience in SQL, Python, Business Intelligence, and end-to-end analytics projects. Passionate about transforming raw data into actionable insights through data preparation, exploratory analysis, machine learning, and data-driven decision-making.
+
 
 My portfolio showcases projects across business intelligence, ESG analytics, financial analysis, ETL pipelines, API integrations, and data visualization using modern analytics tools.
 
