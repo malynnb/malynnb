@@ -40,84 +40,45 @@ My portfolio showcases projects across business intelligence, ESG analytics, fin
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
+### 🌱 [ESG & Stock Market Performance Analysis](https://github.com/Malynnb/esg-stock-market-performance-analysis)
 
-### 🌱 ESG & Financial Performance Analysis
+Built an end-to-end analytics project to evaluate whether ESG performance influences stock market outcomes across industrial companies.
 
-Developed an end-to-end data analytics solution to investigate the relationship between ESG performance and stock market outcomes across industrial companies using Python, SQL, and Looker Studio.
+**Key Skills**
 
-**Highlights**
-
-* Collected, cleaned, transformed, and integrated ESG and financial datasets from multiple sources using Python and SQL
-* Performed exploratory data analysis and correlation analysis to examine relationships between ESG scores, market capitalization, and 52-week stock returns
-* Categorized companies into Low, Medium, and High ESG groups using Python to compare financial performance across ESG levels
-* Designed an interactive 3-page Looker Studio dashboard to visualize ESG distribution, stock performance, and company-level insights
-* Delivered business-focused insights showing that ESG scores alone were not a strong predictor of short-term stock performance
+* Python • SQL • Pandas • Data Cleaning • EDA • Statistical Analysis • Looker Studio
+* Integrated ESG and financial datasets from multiple sources
+* Built an interactive 3-page dashboard to explore ESG scores, market capitalization, and stock performance
+* Discovered that ESG scores alone were not a strong predictor of short-term stock returns
 
 ---
 
-### 🌍 GoOutside Market Performance Dashboard
+### 🌍 [GoOutside Market Performance Dashboard](https://github.com/Malynnb/gooutside-market-performance-dashboard)
 
-Developed an end-to-end Business Intelligence solution for a multi-market retail company using BigQuery, SQL, Google Sheets, and Looker Studio.
+Designed a Business Intelligence dashboard that transforms retail sales data into actionable insights for decision-makers.
 
-**Highlights**
+**Key Skills**
 
-* Built a business reporting view by joining sales, retailer, product, and order method datasets in BigQuery
-* Created KPI calculations and analytical queries to support executive reporting
-* Performed pivot table analysis and KPI validation in Google Sheets
-* Designed an interactive Looker Studio dashboard for market, retailer, and product performance analysis
-* Delivered stakeholder-focused insights to support data-driven decision making
-
----
-
-### 🛴 E-Scooter Demand Intelligence Pipeline
-
-Built an end-to-end data pipeline using Python, APIs, Web Scraping, SQLAlchemy, and MySQL to collect and store external demand indicators including city demographics, weather forecasts, and airport arrivals.
-
-**Highlights**
-
-* Scraped city information from Wikipedia using BeautifulSoup
-* Retrieved weather forecasts through the OpenWeather API
-* Collected airport arrival data using AeroDataBox
-* Designed a relational MySQL database
-* Loaded data into SQL tables using SQLAlchemy
+* BigQuery • SQL • Looker Studio • Google Sheets • Business Intelligence
+* Built analytical SQL views and KPI calculations
+* Developed an executive dashboard for market, retailer, and product performance
+* Delivered data-driven recommendations to support business decisions
 
 ---
 
-### 📦 Eniac Partnership Analysis
+### 🛴 [E-Scooter Demand Intelligence Pipeline](https://github.com/Malynnb/e-scooter-demand-intelligence-pipeline)
 
-Evaluated whether Magist would be a suitable business partner for Eniac through analysis of marketplace performance, delivery reliability, and seller behaviour.
+Developed an automated data pipeline that collects external demand indicators for predicting e-scooter demand.
 
-**Highlights**
+**Key Skills**
 
-* Analyzed marketplace performance and seller activity
-* Evaluated delivery reliability and operational efficiency
-* Presented business recommendations supported by data analysis
+* Python • APIs • Web Scraping • SQLAlchemy • MySQL • ETL
+* Collected weather, airport arrivals, and demographic data from multiple APIs
+* Designed a relational database and automated data loading
+* Demonstrated an end-to-end ETL workflow from data collection to storage
 
----
-
-### 💰 Discount Strategy Analysis
-
-Investigated how discount strategies affected revenue and product performance.
-
-**Highlights**
-
-* Analyzed the relationship between discounts and sales performance
-* Identified trends impacting revenue generation
-* Presented findings to support pricing strategy decisions
-
----
-
-### 🧪 Eniac A/B Test Analysis
-
-Applied hypothesis testing to determine whether a new website button improved conversion performance.
-
-**Highlights**
-
-* Conducted statistical hypothesis testing
-* Evaluated conversion rate performance
-* Communicated results and business implications
 
 
 
