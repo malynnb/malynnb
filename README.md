@@ -1,4 +1,4 @@
-# Hi, I'm Malynn 👋
+# Hi, I'm Malynn 
 
 
 Data Analyst with hands-on experience in SQL, Python, Business Intelligence, and end-to-end analytics projects. Passionate about transforming raw data into actionable insights through data preparation, exploratory analysis, machine learning, and data-driven decision-making.
@@ -42,7 +42,7 @@ My portfolio showcases projects across business intelligence, ESG analytics, fin
 
 ## Featured Projects
 
-### 🌱 [ESG & Stock Market Performance Analysis](https://github.com/Malynnb/esg-stock-market-performance-analysis)
+###  [ESG & Stock Market Performance Analysis](https://github.com/Malynnb/esg-stock-market-performance-analysis)
 
 Built an end-to-end analytics project to evaluate whether ESG performance influences stock market outcomes across industrial companies.
 
@@ -55,7 +55,7 @@ Built an end-to-end analytics project to evaluate whether ESG performance influe
 
 ---
 
-### 🌍 [GoOutside Market Performance Dashboard](https://github.com/Malynnb/gooutside-market-performance-dashboard)
+###  [GoOutside Market Performance Dashboard](https://github.com/Malynnb/gooutside-market-performance-dashboard)
 
 Designed a Business Intelligence dashboard that transforms retail sales data into actionable insights for decision-makers.
 
@@ -68,7 +68,7 @@ Designed a Business Intelligence dashboard that transforms retail sales data int
 
 ---
 
-### 🛴 [E-Scooter Demand Intelligence Pipeline](https://github.com/Malynnb/e-scooter-demand-intelligence-pipeline)
+###  [E-Scooter Demand Intelligence Pipeline](https://github.com/Malynnb/e-scooter-demand-intelligence-pipeline)
 
 Developed an automated data pipeline that collects external demand indicators for predicting e-scooter demand.
 
@@ -96,7 +96,7 @@ Developed an automated data pipeline that collects external demand indicators fo
 
 ---
 
-## 🎯 Currently Seeking
+## Currently Seeking
 
 - Data Analyst
 - Business Intelligence Analyst
