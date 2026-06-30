@@ -103,7 +103,7 @@ Developed an automated data pipeline that collects external demand indicators fo
 - ESG Analyst
 - Junior Analytics Engineer
 
-📍 Berlin, Germany
+
 
   
 ---
